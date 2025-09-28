@@ -6,7 +6,7 @@ este projeto realiza uma análise exploratória do **iris dataset**, um dos mais
 
 ## estrutura do Projeto
 - `data/iris.csv` → dataset utilizado
-- `notebooks/analise_iris.ipynb` → análise exploratória em Python
+- `notebooks/analise_iris.ipynb` → análise exploratória em python
 - `requirements.txt` → bibliotecas necessárias
 
 ## tecnologias
